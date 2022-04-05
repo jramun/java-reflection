@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>basic</module>
+        <module>with-utils</module>
     </modules>
 
 </project>
